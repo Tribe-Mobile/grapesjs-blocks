@@ -19,9 +19,6 @@ export default {
     return {
       editor: null,
       content: '',
-      showEditor: true,
-      showBlog: true,
-      grapesjs: null,
     }
   },
   methods: {},
